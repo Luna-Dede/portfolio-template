@@ -1,6 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
-    background-color: #fdf6d7;
+    background-color: #4A6C6D;
     margin: 0px;
 }
 
@@ -21,6 +21,10 @@ body {
 }
 
 .title {
+    text-align: center;
+}
+
+.welcome {
     text-align: center;
 }
 
